@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Williams Andrés Sierra Narváez
+- **Carrera**: Desarrollo de Software 
+- **Fecha de entrega**: 21 de octubre de 2025
 
 ---
 
